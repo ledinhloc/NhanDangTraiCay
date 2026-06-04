@@ -1,0 +1,4 @@
+train: ../train/images
+val: ../valid/images
+nc: 12
+names: ["buoi", "sau_rieng", "tao", "thanh_long", "xoai", "ca_chua", "ca_rot", "chuoi", "dua_hau", "dua_leo", "mit", "trung_ga"]
