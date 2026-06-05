@@ -1,7 +1,7 @@
 import os
 
-folder_path = r"Image\Chuoi"
-class_name = "Chuoi"
+folder_path = r"Image\CaRot"
+class_name = "CaRot"
 
 image_extensions = ('.jpg', '.jpeg', '.png', '.bmp', '.webp')
 
