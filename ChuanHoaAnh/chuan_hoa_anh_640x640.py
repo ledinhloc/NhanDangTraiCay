@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 
 base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-class_name = 'DuaLeo'
+class_name = 'Chuoi'
 path = os.path.join(base_dir, 'Image', class_name)
 path_dest = os.path.join(base_dir, 'TraiCay640x640', class_name)
 os.makedirs(path_dest, exist_ok=True)
