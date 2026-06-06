@@ -2,8 +2,8 @@ from pathlib import Path
 import random
 import shutil
 
-IMAGE_DIR = Path("TraiCay640x640/DuaLeo")
-LABEL_DIR = Path("Label/DuaLeo")
+IMAGE_DIR = Path("TraiCay640x640/CaRot")
+LABEL_DIR = Path("Label/CaRot")
 OUT_DIR = Path("TraiCay640x640_OK")
 
 VALID_RATIO = 0.2
